@@ -1,0 +1,88 @@
+.navbar-inversemy_nav_bar{
+    background-color: rgba(2, 192, 250, 0.582);
+}
+
+body{
+    background-color: white;
+}
+
+.img {
+    width: 1000px;
+    border-style: dashed;
+    border-width: 3px;
+}
+
+.soccer{
+    border-radius: 10px;
+}
+
+.info span{
+    color: orange;
+}
+
+.music{
+    border-radius: 10px;
+}
+
+.info span{
+    color: orange;
+}
+
+#music1{
+    width: 150px;
+    height: 150px;
+}
+
+#last1{
+    width: 150px;
+    height: 150px;
+}
+
+.last{
+    border-radius: 10px;
+}
+
+#teacher{
+    background-color: lightcoral;
+    height: 450px;
+    width: 350px;
+}
+
+#principal{
+    background-color: lightblue;
+    height: 450px;
+    width: 350px;
+}
+
+#principal img{
+    height: 200px;
+    width: 200px;
+}
+
+#new section{
+    float: left;
+    margin-left:  15px;
+}
+
+#last2{
+    background-color: lightgreen;
+    height: 450px;
+    width: 350px;
+}
+
+.Contact{
+    margin-bottom:-300px;
+}
+
+.ok{
+    height: 250px;
+    width: 250px;
+    margin-top: -350px;
+}
+
+.ok2{
+    margin-top:50px;
+}
+
+
+
